@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle( "PC_Info_Tool" )]
-[assembly: AssemblyDescription( "" )]
+[assembly: AssemblyDescription( "provides end user information for getting Support" )]
 [assembly: AssemblyConfiguration( "" )]
-[assembly: AssemblyCompany( "" )]
+[assembly: AssemblyCompany( "Chris Dieker" )]
 [assembly: AssemblyProduct( "PC_Info_Tool" )]
 [assembly: AssemblyCopyright( "Copyright ©  2018" )]
 [assembly: AssemblyTrademark( "" )]
